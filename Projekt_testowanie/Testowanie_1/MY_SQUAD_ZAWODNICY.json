@@ -1,0 +1,110 @@
+[
+	{
+		"Imię i nazwisko" : "Francesco Toldo",
+		"Pozycja" : "Bramkarz",
+		"Numer" : 1,
+		"Wiek" : 39
+	},
+	{
+		"Imię i nazwisko" : "Ivan Cordoba",
+		"Pozycja" : "Obrońca",
+		"Numer" : 2,
+		"Wiek" : 34
+	},
+	{
+		"Imię i nazwisko" : "Javier zanetti",
+		"Pozycja" : "Obrońca",
+		"Numer" : 4,
+		"Wiek" : 37
+	},
+	{
+		"Imię i nazwisko" : "Dejan Stankovic",
+		"Pozycja" : "Środkowy pomocnik",
+		"Numer" : 5,
+		"Wiek" : 32
+	},
+	{
+		"Imię i nazwisko" : "Lucimar da Silva Ferreira",
+		"Pozycja" : "Obrońca",
+		"Numer" : 6,
+		"Wiek" : 33
+	},
+	{
+		"Imię i nazwisko" : "Samuel Eto'o",
+		"Pozycja" : "Napastnik",
+		"Numer" : 9,
+		"Wiek" : 30
+	},
+	{
+		"Imię i nazwisko" : "Weseley Snejider",
+		"Pozycja" : "Ofensywny pomocnik",
+		"Numer" : 10,
+		"Wiek" : 27
+	},
+	{
+		"Imię i nazwisko" : "Sulley Muntari",
+		"Pozycja" : "Środkowy pomocnik",
+		"Numer" : 11,
+		"Wiek" : 26
+	},
+	{
+		"Imię i nazwisko" : "Julio Cesar",
+		"Pozycja" : "Bramkarz",
+		"Numer" : 12,
+		"Wiek" : 31
+	},
+	{
+		"Imię i nazwisko" : "Maicon",
+		"Pozycja" : "Obrońca",
+		"Numer" : 13,
+		"Wiek" : 29
+	},
+	{
+		"Imię i nazwisko" : "McDonald Mariga",
+		"Pozycja" : "Defensywny pomocnik",
+		"Numer" : 17,
+		"Wiek" : 24
+	},
+	{
+		"Imię i nazwisko" : "Esteban Cambiasso",
+		"Pozycja" : "Defensywny pomocnik",
+		"Numer" : 19,
+		"Wiek" : 30
+	},
+	{
+		"Imię i nazwisko" : "Diego Milito",
+		"Pozycja" : "Napastnik",
+		"Numer" : 22,
+		"Wiek" : 32
+	},
+	{
+		"Imię i nazwisko" : "Marco Materazzi",
+		"Pozycja" : "Obrońca",
+		"Numer" : 23,
+		"Wiek" : 37
+	},
+	{
+		"Imię i nazwisko" : "Walter Samuel",
+		"Pozycja" : "Obrońca",
+		"Numer" : 25,
+		"Wiek" : 33
+	},
+	{
+		"Imię i nazwisko" : "Cristian Chivu",
+		"Pozycja" : "Obrońca",
+		"Numer" : 26,
+		"Wiek" : 30
+	},
+	{
+		"Imię i nazwisko" : "Goran Pandev",
+		"Pozycja" : "Napastnik",
+		"Numer" : 27,
+		"Wiek" : 27
+	},
+	{
+		"Imię i nazwisko" : "Mario Balotelli",
+		"Pozycja" : "Napastnik",
+		"Numer" : 45,
+		"Wiek" : 19
+	}
+]

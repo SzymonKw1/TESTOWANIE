@@ -1,0 +1,52 @@
+[
+	{
+		"Imię i nazwisko" : "Jose Mourinho",
+		"Funkcja" : "Trener główny",
+		"Staż pracy(w latach)" : 2
+	},
+	{
+		"Imię i nazwisko" : "Fabrizio Romano",
+		"Funkcja" : "Rzecznik prasowy ",
+		"Staż pracy(w latach)" : 5
+	},
+	{
+		"Imię i nazwisko" : "Tommy Angelo",
+		"Funkcja" : "Trener przygotowania motorycznego ",
+		"Staż pracy(w latach)" : 5
+	},
+	{
+		"Imię i nazwisko" : "Paulie Lombardo",
+		"Funkcja" : "Trener przygotowania motorycznego",
+		"Staż pracy(w latach)" : 4
+	},
+	{
+		"Imię i nazwisko" : "Vito Scaletta",
+		"Funkcja" : "Fizjoterapueta",
+		"Staż pracy(w latach)" : 2
+	},
+	{
+		"Imię i nazwisko" : "Joe Barbaro",
+		"Funkcja" : "Fizjoterapueta",
+		"Staż pracy(w latach)" : 2
+	},
+	{
+		"Imię i nazwisko" : "Mike Bruski",
+		"Funkcja" : "Trener Bramkarzy",
+		"Staż pracy(w latach)" : 7
+	},
+	{
+		"Imię i nazwisko" : "Czesław Michniewicz",
+		"Funkcja" : "Asystent trenera ",
+		"Staż pracy(w latach)" : 2
+	},
+	{
+		"Imię i nazwisko" : "Vincenzo Ricci",
+		"Funkcja" : "Trener przygotowania mentalnego",
+		"Staż pracy(w latach)" : 3
+	},
+	{
+		"Imię i nazwisko" : "Carlo Ancelotti",
+		"Funkcja" : "Drugi trener",
+		"Staż pracy(w latach)" : 2
+	}
+]
